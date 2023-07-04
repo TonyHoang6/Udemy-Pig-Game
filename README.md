@@ -1,0 +1,3 @@
+# tony-udemy-javascript-zero-to-expert
+
+The pig game allows two players to roll a dice who evers total score reaches 100 wins. Each player will take turns rolling a dice if they dont roll a 1 or a 5 the value of their roll is added to their current score players can choose to hold or keep rolling. If the player holds their current score will be added to their total score but if they keep rolling and they happen to roll a 1 or 5 thier current score will go to 0 and their turn will have ended. Once the game is over players can click the new game buttom to start a new game and to change the max score.
